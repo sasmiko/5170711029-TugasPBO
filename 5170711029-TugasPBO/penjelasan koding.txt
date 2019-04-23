@@ -1,0 +1,13 @@
+Inheritance,overriding dan protected
+
+Pada program java dengan Super Class manusia terdiri dari 5 Class
+dengan class Manusia sebagai Super Class, inheritence sebagai class main( class penampil)
+dana yang lainnya sebagai subclass
+
+1. pada class manusia akan dimintai inputan nama dan umur
+   yang akan di wariskan ke class male dan female.
+
+2. class male dan female mempunyai satu methode protected yang hanya bisa di akses oleh masing-masing class.
+
+3. pada class male dan female kita akan disajikan tentang sebuah pekerjaan yang mana ada pilihan inputan pekerjaan
+   setelah dipilih inputan pekerjaan program akan menampilkan jenis pekerjaanya.
